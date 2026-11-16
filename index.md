@@ -1,5 +1,5 @@
 ---
-title: Home
+title: NYPL DAMS Documentation
 layout: home
 ---
 
