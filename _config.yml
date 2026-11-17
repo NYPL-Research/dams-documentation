@@ -20,7 +20,7 @@
 
 title: NYPL DAMS Documentation
 description: Documentation for NYPL DAMS, the digital asset management system at the New York Public Library.
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 markdown: kramdown
 search_enabled: true
 baseurl: /dams-documentation
