@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 has_toc: false
+last_modified_date: {{page.last_modified_date}}
 ---
 
 # Contact
