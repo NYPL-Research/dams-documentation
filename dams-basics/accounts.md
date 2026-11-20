@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accounts
-permalink: /dams-basics/accounts
+permalink: /basics/accounts
 parent: DAMS Basics
 nav_order: 1
 has_toc: true

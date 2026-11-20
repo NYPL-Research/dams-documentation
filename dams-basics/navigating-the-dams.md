@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Navigation
-permalink: /dams-basics/navigation
+permalink: /basics/navigation
 parent: DAMS Basics
 nav_order: 4
 has_toc: true
